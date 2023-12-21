@@ -19,4 +19,17 @@ Este projeto é uma tela de login básica e funcional. Ele contém campos para i
 2. Insira seu nome de usuário e senha nos campos apropriados.
 3. Clique em 'Entrar' para acessar o dashboard.
 
+## Tecnologias Utilizadas
 
+1. HTML
+2. CSS
+3. BOOTSTRAP
+4. PHP
+
+## Contribuição
+
+#
+
+## Licença
+
+#
